@@ -1,0 +1,15 @@
+{
+  "name": "deepcopyproject",
+  "version": "1.0.0",
+  "description": "about deep copy",
+  "main": "clone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramazan",
+  "license": "ISC",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  },
+  "type": "module"
+}
